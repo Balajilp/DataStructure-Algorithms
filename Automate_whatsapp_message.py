@@ -2,7 +2,11 @@ import pyautogui
 import time
 time.sleep(4)
 count = 0
-while count<=50:
-    pyautogui.typewrite("Fuck you B****")
+while count<=100:
+    pyautogui.typewrite("I Love you so much pondatti kuttiiiii.  Love you lotsss")
     pyautogui.press('enter')
-    count = count+1
+    count += 1 
+
+
+
+
